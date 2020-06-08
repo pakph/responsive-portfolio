@@ -1,0 +1,30 @@
+.navbar {
+    background: linear-gradient(to right, #666699 0%, #ccccff 100%);
+}
+
+#portfolio-carousel {
+    background: #666699;
+    margin: 5% 10%;
+}
+
+#yelpcipes-carousel {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: 3% 0%
+}
+
+#healthTrackr {
+    width: 100%;
+    height: auto;
+}
+
+#foodSearch {
+    width: 100%;
+    height: auto;
+}
+
+#medication {
+    display: block;
+    margin: auto;
+}
